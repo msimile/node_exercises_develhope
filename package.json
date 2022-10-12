@@ -1,0 +1,19 @@
+{
+  "name": "node---esercizi",
+  "version": "1.0.0",
+  "description": "Esercizi Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msimile/node_exercises_develhope.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msimile/node_exercises_develhope/issues"
+  },
+  "homepage": "https://github.com/msimile/node_exercises_develhope#readme"
+}
