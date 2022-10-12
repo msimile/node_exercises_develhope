@@ -4,7 +4,7 @@
   "description": "Esercizi Node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/msimile/node_exercises_develhope/issues"
   },
-  "homepage": "https://github.com/msimile/node_exercises_develhope#readme"
+  "homepage": "https://github.com/msimile/node_exercises_develhope#readme",
+  "devDependencies": {
+    "jest": "^29.1.2",
+    "supertest": "^6.3.0"
+  }
 }
